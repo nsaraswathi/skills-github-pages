@@ -1,14 +1,16 @@
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
 title: Sri Sai Vidyanikethan School Updates
 author:
+  name: Saraswathi Nagireddy
   twitter: srisaividya
+  email: saraswathi@srisaividyanikethan.edu.in
 description: Head Mistress @ Sri Sai Vidyanikethan E.M. High School, Adapur.
 theme: minima
 minima:
   skin: dark
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
 feed:
-  icon: /images/icon.png
-  logo: /images/logo.png
+  icon: /favicon-96x96.png
+  logo: /favicon-96x96.png
   tags: true
